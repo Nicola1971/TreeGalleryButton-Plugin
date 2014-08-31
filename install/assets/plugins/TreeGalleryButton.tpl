@@ -2,7 +2,7 @@
 /**
  * TreeGalleryButton
  *
- * Add a new treebutton to open media gallery in a popup or black page
+ * Add a new treebutton to open media gallery in a popup or blank page
  *
  * @author    Nicola Lambathakis
  * @category    plugin
@@ -17,7 +17,7 @@
 /**
  * TreeGalleryButton RC 1.0
  * author: Nicola Lambathakis http://www.tattoocms.it
- * Add a new treebutton to open media gallery in a popup or black page
+ * Add a new treebutton to open media gallery in a popup or blank page
  * Event: OnManagerTreePrerender
  * Configuration: &TargetWindow=Target Window:;list;popup,blank;popup &AwesomeFonts=Use Awesome Fonts icon:;list;no,yes;no &AwesomeFontsHoverColor=Awesome Fonts hover color:;string;FFFFFF &AwesomeGalleryFontsIcon=Awesome Fonts icon:;string;fa-picture-o
  */
