@@ -58,7 +58,7 @@ $awesomestyle = '<style>
 	height:16px;
 	width:16px;
 	cursor: pointer;}
-	a.TrbuttonElements i:hover {color: #'.$AwesomeFontsHoverColor.'!important;)
+	a.TrbuttonGallery i:hover {color: #'.$AwesomeFontsHoverColor.'!important;)
 	</style>';
 // run event
 $e = &$modx->Event;
