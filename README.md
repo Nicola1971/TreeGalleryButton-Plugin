@@ -19,3 +19,12 @@ Plugin configuration options:
 ##Popup window
 ![pop window](https://raw.githubusercontent.com/Nicola1971/TreeGalleryButton-Plugin/master/popup-screen.jpg)
 
+
+# Updates:
+
+##RC 1.1
+
+* moved code in plugin directory
+* fixed wrong plugin folder name 
+
+
