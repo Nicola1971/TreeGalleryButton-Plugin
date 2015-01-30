@@ -1,6 +1,9 @@
 TreeGalleryButton-Plugin
 ========================
 
+More info at:
+http://www.tattoocms.it/extras/plugins/treegallerybutton.html
+
 This Plugin add into **MODX Evolution** a new **treebutton** to open media gallery in a popup or black page
 
 Plugin configuration options:
